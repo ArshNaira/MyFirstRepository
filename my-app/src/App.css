@@ -28,3 +28,8 @@
   grid-area: c;
   background-color: rgb(163, 184, 184);
 }
+
+.app-wrapper-content{
+  grid-area: c;
+  background-color: aquamarine;
+}
